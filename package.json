@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/MalyPhong619/leapyear#readme",
   "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.3",
+    "babel-preset-es2015": "^6.24.1",
     "clean-webpack-plugin": "^0.1.18",
     "css-loader": "^0.28.10",
     "eslint": "^4.18.2",
@@ -43,8 +46,8 @@
     "webpack-dev-server": "^3.1.0"
   },
   "dependencies": {
-    "bootstrap": "^4.2.1",
-    "jquery": "^3.3.1",
-    "popper.js": "^1.14.6"
+    "bootstrap": "4.0.0",
+    "jquery": "3.3.1",
+    "popper.js": "1.14.0"
   }
 }
